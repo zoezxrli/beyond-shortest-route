@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "S",
+        "name": "Start",
+        "role": "start",
+        "material_kg": 0.0,
+        "service_minutes": 0.0,
+        "scenario_note": "Simulated beginning of a workday placed on a routable OSM street node",
+        "provenance": "synthetic",
+        "snapped_longitude": -74.0969866,
+        "snapped_latitude": 4.5988544
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0969866,
+          4.5988544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A",
+        "name": "Collection A",
+        "role": "collection",
+        "material_kg": 12.0,
+        "service_minutes": 6.0,
+        "scenario_note": "Simulated handover and loading event placed on a routable OSM street node",
+        "provenance": "synthetic",
+        "snapped_longitude": -74.0953903,
+        "snapped_latitude": 4.6063885
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0953903,
+          4.6063885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "B",
+        "name": "Collection B",
+        "role": "collection",
+        "material_kg": 18.0,
+        "service_minutes": 9.0,
+        "scenario_note": "Simulated handover and loading event placed on a routable OSM street node",
+        "provenance": "synthetic",
+        "snapped_longitude": -74.0905379,
+        "snapped_latitude": 4.6155277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0905379,
+          4.6155277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C",
+        "name": "Collection C",
+        "role": "collection",
+        "material_kg": 25.0,
+        "service_minutes": 10.0,
+        "scenario_note": "Simulated deadline point placed on a routable OSM street node",
+        "provenance": "synthetic",
+        "snapped_longitude": -74.0782368,
+        "snapped_latitude": 4.6062798
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0782368,
+          4.6062798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "D",
+        "name": "Collection D",
+        "role": "collection",
+        "material_kg": 14.0,
+        "service_minutes": 7.0,
+        "scenario_note": "Simulated handover and loading event placed on a routable OSM street node",
+        "provenance": "synthetic",
+        "snapped_longitude": -74.0803133,
+        "snapped_latitude": 4.6172227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0803133,
+          4.6172227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "E",
+        "name": "Collection E",
+        "role": "collection",
+        "material_kg": 30.0,
+        "service_minutes": 12.0,
+        "scenario_note": "Simulated handover and loading event placed on a routable OSM street node",
+        "provenance": "synthetic",
+        "snapped_longitude": -74.0857295,
+        "snapped_latitude": 4.6199856
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0857295,
+          4.6199856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "T",
+        "name": "ACOPIO LA AMISTAD",
+        "role": "eca",
+        "material_kg": 0.0,
+        "service_minutes": 0.0,
+        "scenario_note": "Route terminal at CL 24 18 61",
+        "provenance": "UAESP 2023 public inventory record",
+        "inventory_id": "455",
+        "inventory_year": 2023,
+        "verification_note": "Public inventory record; current operating status not field-verified",
+        "snapped_longitude": -74.0768772,
+        "snapped_latitude": 4.6162136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0766314,
+          4.6158341
+        ]
+      }
+    }
+  ]
+}
