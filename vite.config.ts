@@ -5,7 +5,7 @@ process.env.CLOUDFLARE_CF_FETCH_ENABLED ??= "false";
 process.env.WRANGLER_SEND_METRICS ??= "false";
 
 const LOCAL_DATABASE_ID =
-  "00000000-0000-4000-8000-000000000000";
+  "7f28da0f-43db-4e35-84dc-475c74014448";
 
 const localBindingConfig = {
   name: "ruta-justa-bogota",
